@@ -37,7 +37,7 @@ Un minimo di dimestichezza con Linux aiuta!
 <p><b>Iniziamo!</b></p>
 <ol>
 <li><b> Setup del Raspberry Pi2 </b></li>
-    <p>Per il Setup di base potete attenervi alle istruzioni che trovate sul sito, siccome "NOOBS" e "Raspbian" erano un po' scarne ho scelto "Ubuntu Mate" che ha un desktop piu carino, le istruzioni per creare l'immagine sulla MicroSD le trovate sul sito di<a href="https://ubuntu-mate.org/raspberry-pi/">Mate</a> ma in pratica è il solito: scarica, scompatta e usa dd per creare l'immagine :P , ovviamente è tutto piu semplice se avete gia una macchina con linux installato che vede il lettore SD.</p>
+    <p>Per il Setup di base potete attenervi alle istruzioni che trovate sul sito, siccome "NOOBS" e "Raspbian" erano un po' scarne ho scelto "Ubuntu Mate" che ha un desktop piu carino, le istruzioni per creare l'immagine sulla MicroSD le trovate sul sito di<a href="https://ubuntu-mate.org/raspberry-pi/"> Mate</a> ma in pratica è il solito: scarica, scompatta e usa dd per creare l'immagine :P , ovviamente è tutto piu semplice se avete gia una macchina con linux installato che vede il lettore SD.</p>
     <p>Dopo il primo avvio è d'obbligo il solito apt-get update && apt-get upgrade oltre all'aggiornamento del software di configurazione del RasPi2 <p>
     <p> Fatto questo potete procedere al download e all'installazione dell'emulatore, nel mio caso ho scaricato il software da <a href="http://sourceforge.net/projects/mame4allpi/"> Source Forge </a> le istruzioni per l'installazione si limitano a "lancia lo script install.sh" quindi ampiamente alla portata di tutti :D
     <p>Caricate le vostre ROM e mettetele nella cartella /usr/local/bin/indiecity/InstalledApps/mame4all/Full/roms/ </p>
