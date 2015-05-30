@@ -43,6 +43,7 @@ Un minimo di dimestichezza con Linux aiuta!
     <p>Caricate le vostre ROM e mettetele nella cartella /usr/local/bin/indiecity/InstalledApps/mame4all/Full/roms/ </p>
     <p>Avviate M.A.M.E e provate le vostre ROM per vedere se vanno, altrimenti provate a convertirle con il programma che trovate su <a href="http://mamedev.emulab.it/clrmamepro/"> Emulab.it </a></p>
     <p><b>NOTA:</b> Per tutte le prove e il setup ho usato una tastiera USB</p>
-<li><b> 
+<li><b> Collegamento delle periferiche sul GPIO<b>
+
     
 
