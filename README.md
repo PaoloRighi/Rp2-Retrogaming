@@ -4,9 +4,9 @@
 <p align=center><b> Come creare una console per MAME (e altri emulatori) usando un Raspberry Pi2 </b></p>
   
 <b>Premessa</b>: non so nulla di elettronica, non sono bravo a saldare, non sono un programmatore! <br>
-tutto quello che vi serve per costruire la vosta mame console lo potete trovare in rete dall'hardware al software
+tutto quello che vi serve per costruire la vosta M.A.M.E. console lo potete trovare in rete dall'hardware al software
 e, hardware a parte, è tutto gratuito.<br>
-<p> L'idea mi è venuta vedendo questo progetto sul sito di Adafruit: </p>
+<p> L'idea mi è venuta vedendo questo progetto sul sito di <a href="https://learn.adafruit.com/retro-gaming-with-raspberry-pi/overview"> Adafruit </a> </p>
 
 
 <p><b>Scopo Del Progetto</b></p>
@@ -18,5 +18,13 @@ e, hardware a parte, è tutto gratuito.<br>
 
 
 <p><b>Componenti Di Base</b></p>
-1 Raspberry Pi2
-6 Pulsanti di tipo   
+1 Raspberry Pi2 (Amazon)
+1 Adafruit Small Arcade Joystick (Amazon)
+6 Pulsanti di tipo Adafruit Arcade Button 30mm (colori a scelta Amazon)
+1 confezione di Premium Female/Female Jumper Wires (Amazon)
+
+<p><b>Componenti Opzionali</b></p>
+1 Microsoft All-in-One Media Keyboard (Amazon)
+1 Adattatore USB Wifi per Raspberry Pi (Amazon)
+
+
