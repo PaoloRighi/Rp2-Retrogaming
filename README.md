@@ -19,6 +19,7 @@ tutto quello che vi serve per costruire la vosta M.A.M.E. console lo potete trov
 <p><b>Componenti Di Base</b></p>
 <ul>
 <li>1 Raspberry Pi2 (Amazon)</li>
+<li> Micro SD da almeno 8gb (ne ho in casa una manciata :D) </li>
 <li>1 Adafruit Small Arcade Joystick (Amazon)</li>
 <li>6 Pulsanti di tipo Adafruit Arcade Button 30mm (colori a scelta Amazon)</li>
 <li>1 confezione di Premium Female/Female Jumper Wires (Amazon)</li>
