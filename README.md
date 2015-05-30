@@ -18,13 +18,17 @@ e, hardware a parte, è tutto gratuito.<br>
 
 
 <p><b>Componenti Di Base</b></p>
-1 Raspberry Pi2 (Amazon)
-1 Adafruit Small Arcade Joystick (Amazon)
-6 Pulsanti di tipo Adafruit Arcade Button 30mm (colori a scelta Amazon)
-1 confezione di Premium Female/Female Jumper Wires (Amazon)
+<ul>
+<li>1 Raspberry Pi2 (Amazon)</li>
+<li>1 Adafruit Small Arcade Joystick (Amazon)</li>
+<li>6 Pulsanti di tipo Adafruit Arcade Button 30mm (colori a scelta Amazon)</li>
+<li>1 confezione di Premium Female/Female Jumper Wires (Amazon)</li>
+</ul>
 
 <p><b>Componenti Opzionali</b></p>
-1 Microsoft All-in-One Media Keyboard (Amazon)
-1 Adattatore USB Wifi per Raspberry Pi (Amazon)
+<ul>
+<li>1 Microsoft All-in-One Media Keyboard (Amazon)</li>
+<li>1 Adattatore USB Wifi per Raspberry Pi (Amazon)</li>
+</ul>
 
 
