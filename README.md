@@ -29,6 +29,7 @@ e, hardware a parte, è tutto gratuito.<br>
 <ul>
 <li>1 Microsoft All-in-One Media Keyboard (Amazon)</li>
 <li>1 Adattatore USB Wifi per Raspberry Pi (Amazon)</li>
+<li>3D printed case per Rpi2 (di cui uso solo la base)</li>
 </ul>
 
 
